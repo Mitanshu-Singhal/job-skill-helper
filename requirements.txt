@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+scikit-learn
+pymupdf
+pandas
+torchvision
+requests
+beautifulsoup4
